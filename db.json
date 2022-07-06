@@ -1,5 +1,5 @@
 {
-  "posts": [
+  "temperatures": [
     { "group": "Jan", "variable": 0, "value": 5 },
     { "group": "Jan", "variable": 1, "value": 10 },
     { "group": "Jan", "variable": 2, "value": 15 },
