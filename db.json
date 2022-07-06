@@ -1,13 +1,13 @@
 {
   "posts": [
-    { "group": "Jan", "variable": 0, "data": 5 },
-    { "group": "Jan", "variable": 1, "data": 10 },
-    { "group": "Jan", "variable": 2, "data": 15 },
-    { "group": "Feb", "variable": 0, "data": 20 },
-    { "group": "Feb", "variable": 1, "data": 25 },
-    { "group": "Feb", "variable": 2, "data": 30 },
-    { "group": "Mar", "variable": 0, "data": 35 },
-    { "group": "Mar", "variable": 1, "data": 40 },
-    { "group": "Mar", "variable": 2, "data": 45 }
+    { "group": "Jan", "variable": 0, "value": 5 },
+    { "group": "Jan", "variable": 1, "value": 10 },
+    { "group": "Jan", "variable": 2, "value": 15 },
+    { "group": "Feb", "variable": 0, "value": 20 },
+    { "group": "Feb", "variable": 1, "value": 25 },
+    { "group": "Feb", "variable": 2, "value": 30 },
+    { "group": "Mar", "variable": 0, "value": 35 },
+    { "group": "Mar", "variable": 1, "value": 40 },
+    { "group": "Mar", "variable": 2, "value": 45 }
   ]
 }
