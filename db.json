@@ -9,5 +9,9 @@
     { "group": "Mar", "variable": 0, "value": 35 },
     { "group": "Mar", "variable": 1, "value": 40 },
     { "group": "Mar", "variable": 2, "value": 45 }
+  ],
+  "test": [
+     { "group": "Jan", "variable": 0, "value": 5 },
+     { "group": "Jan", "variable": 1, "value": 10 }
   ]
 }
